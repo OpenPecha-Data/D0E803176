@@ -1,0 +1,22 @@
+id: D0E803176
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-01-07T13:47:28+00:00'
+last_modified: '2022-05-27T05:34:53.630929+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    c663:
+      image_group_id: I1PD95901
+      title: ཤེས་རབ་སྙིང་པོའི་རྣམ་པར་བཤད་པ།
+      total_pages: 1682
+      order: 56
+      base_file: c663.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
